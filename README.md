@@ -2,7 +2,7 @@
 
 An open repository for exploring the idea of applying law protecting personal property and freedom of contract to personal data in big data and data-driven systems. 
 
-**Draft Thoughts. Dazza Greenwood, dazza@civics.com**
+**Draft Thoughts. Dazza Greenwood, [law.MIT.edu/contact](https://law.MIT.edu/contact)**
 
 **Blurb:** Maureen (Molly) E. Brady's article "The Lost 'Effects' of the Fourth Amendment: Giving Personal Property Due Protection" (Yale Law Journal, Vol. 125, p. 946, 1 Jul 2015): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2624782) provides an unusually solid and comprehensive legal analysis of personal property law. Moreover, the historical context, well researched set of legal doctrines and overarching framework powerfully supports and reflects the high level concept for a  "New Deal on Data" advocated by Sandy Pentland.
 

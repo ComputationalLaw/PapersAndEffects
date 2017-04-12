@@ -1,2 +1,27 @@
 # PapersAndEffects
-Applying the law protecting personal property, freedom of contract to personal data in big data and data-driven systems. 
+
+An open repository for exploring the idea of applying law protecting personal property and freedom of contract to personal data in big data and data-driven systems. 
+
+**Draft Thoughts. Dazza Greenwood, dazza@civics.com**
+
+**Blurb:** Maureen (Molly) E. Brady's article "The Lost 'Effects' of the Fourth Amendment: Giving Personal Property Due Protection" (Yale Law Journal, Vol. 125, p. 946, 1 Jul 2015): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2624782) provides an unusually solid and comprehensive legal analysis of personal property law. Moreover, the historical context, well researched set of legal doctrines and overarching framework powerfully supports and reflects the high level concept for a  "New Deal on Data" advocated by Sandy Pentland.
+
+**Point of View:** 
+
+## This Excellent 4th Amendment Private Property Research and Analysis Can be Refactored into a Workable Commercial Legal Framework for the New Deal on Data.
+
+This article provides a focused, well researched and coherent description of how the existing law of personal property is far superior to the home based location constructs and fuzzy notions of information "privacy" for establishing rights and expectations protecting the paper and effects of people under the 4th Amendment.  But I think the article also fills out the basis for a commercial law framework of the scope and application needed to support a "New Deal on Data".  I've written up some comments on this in the attached file, mostly to capture my current thinking. 
+
+Sure - I concede her research, analysis and applied framework may not be quite up to the task of reforming criminal law (and the icy mountain of emerging intelligence/law enforcement/cyber security doctrine) enmeshed around the 4th amendment...
+
+But the 4th Amendment is only one part of the puzzle and I don't believe it is the priority part for getting things started. Commercial and social rules and expectations around data ownership and proper use rights are capable of rapid change at this point in time and this wonderful article is brimming with legal constructs needed to fill out a comprehensive and solid foundation.  The main objective goal, at a high level, is whether a framework can provide predictable legal outcomes based on the application of familiar rules in a coherent, repeatable pattern such that any arbitrary people in the relevant roles would arrive at and accept the same conclusions. It seems to me that this article provides a number of very well researched, fully cited and powerfully persuasive pillars for building a commercial law framework supporting a world of big data engines running on personal data as fuel across multiple economic, legal and social contexts of use.  
+
+The legal pillars constructed so artfully and well in this article (plus a few others I've picked up along the way) can be re-organized to serve as a commercial law framework glueing together the incoherent cacophony of click-through terms, B2B contracts and overarching rules currently surrounding personal data, big data and data-driven systems. 
+
+Whether the context of overarching rules is a thick book of rules governing payment and other formal transaction-based networks or loose but common industry practices in ecommerce and social networks or the most subtle architecturally implied norms as informal as giant Git-based networks of repositories enabling tens of thousands of contributors to build major software systems or as novel as the decentralized transaction-focused ecologies evolving around public (Bitcoin and Ethereum) and other blockchains or distributed ledgers.  
+
+If I'm correct, then the "old guard" keepers of the law who pride themselves on protecting private property rights and freedom to contract as effective allies in adoption and propagation of an overarching legal framework supporting the "New Deal on Data" vision and use cases. These are the interests that maintain the primacy of so-called "private law" (ie contract based rules as the primary source of law governing legal outcomes between and among transacting parties) and who maintain the critical role of "Private International Law" (PIL) on the global stage.  As a practical matter, a quick/simple way to test my supposition would be to ask my friends in the US and Canadian PIL Delegations to UNCITRAL if they agree and if they predict this approach could have legs.  
+
+Another natural constituency who I'd expect to be inclined toward a private property, PIL-based "papers and effects" oriented commercial law framework would be in-house counsels of several key economic sectors and industry clusters who are well known for circling their wagons to protects these very concepts and for advancing these agendas internationally, through various organs and means.
+
+While privacy law/politics is mired in a quagmire and new legal paradigm for personal data does not yet exist, good old private property law provides a ready-made, well suited, clearly defined and realistically engineerable framework right now.  The framework provided by the law of personal property based solely upon existing public law (legislative, regulatory and especially judicial) and contract norms supports and reflects the "New Deal on Data" vision. More to the point, this generalizable legal framework provides a workable basis under existing law for stakeholder in all roles to legitimately, fairy, reliably and productively agree upon the use of personal data as a key resource propelling the data-driven world to come.  
